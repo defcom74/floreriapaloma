@@ -1,0 +1,4 @@
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/wc/robots.html
+User-agent: *
+# Private pages
